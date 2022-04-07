@@ -1,0 +1,20 @@
+
+public class StringLab {
+	
+	
+	public static void capitalize(String word) {
+		
+		word = word.toLowerCase();
+		System.out.println(word);
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		capitalize("bLaZe");
+		
+
+	}
+
+}

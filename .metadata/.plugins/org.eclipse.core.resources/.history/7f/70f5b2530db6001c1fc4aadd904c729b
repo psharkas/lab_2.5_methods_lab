@@ -1,0 +1,32 @@
+
+public class StringLab {
+	
+	
+	public static void capitalize(String word) {
+		word = word.toLowerCase();
+		word = word.substring(0,1).toUpperCase() + word.substring(1);
+		System.out.println(word);
+	}
+	
+	public static void wheresWaldo(String phrase) {
+		int index = phrase.indexOf("Waldo");
+		System.out.println(index);
+	}
+	
+	public static void firstThingsFirst(String a, String b){
+		char charA = a.charAt(0);
+		char charB = b.charAt(0);
+		System.out.println(charA + " " + charB);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+//		capitalize("bLaZe");
+//		wheresWaldo("Striped Waldo!");
+		firstThingsFirst("cat","dog");
+		
+
+	}
+
+}
