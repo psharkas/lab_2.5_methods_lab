@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringLabTest" project="MethodsLab" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="StringLabTest" time="0.033" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]">
+    <testcase name="testWaldo" classname="StringLabTest" time="0.028" displayname="testWaldo()" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]/[method:testWaldo()]"/>
+    <testcase name="testCapitalize" classname="StringLabTest" time="0.003" displayname="testCapitalize()" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]/[method:testCapitalize()]"/>
+  </testsuite>
+</testrun>

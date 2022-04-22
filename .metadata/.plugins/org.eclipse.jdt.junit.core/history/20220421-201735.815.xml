@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringLabTest" project="MethodsLab" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="StringLabTest" time="0.053" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]">
+    <testcase name="testWaldo" classname="StringLabTest" time="0.036" displayname="testWaldo()" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]/[method:testWaldo()]"/>
+    <testcase name="testReverse" classname="StringLabTest" time="0.002" displayname="testReverse()" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]/[method:testReverse()]"/>
+    <testcase name="testFirstThingsFirst" classname="StringLabTest" time="0.001" displayname="testFirstThingsFirst()" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]/[method:testFirstThingsFirst()]"/>
+    <testcase name="testAfterMath" classname="StringLabTest" time="0.002" displayname="testAfterMath()" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]/[method:testAfterMath()]"/>
+    <testcase name="testSoLong" classname="StringLabTest" time="0.001" displayname="testSoLong()" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]/[method:testSoLong()]"/>
+    <testcase name="testCapitalize" classname="StringLabTest" time="0.001" displayname="testCapitalize()" uniqueid="[engine:junit-jupiter]/[class:StringLabTest]/[method:testCapitalize()]"/>
+  </testsuite>
+</testrun>

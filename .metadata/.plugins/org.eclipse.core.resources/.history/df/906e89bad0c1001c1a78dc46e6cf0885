@@ -1,0 +1,23 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class StringLabTest {
+
+	@Test
+	void testCapitalize() {
+		String expected = "Java";
+		String actual = StringLab.capitalize("jAvA");
+		assertEquals(expected,actual);
+	}
+	
+	@Test
+	void testWaldo() {
+		int expected = 8;
+		int actual = StringLab.wheresWaldo("Striped Waldo!");
+		assertEquals(expected,actual);
+	}
+	
+
+
+}
